@@ -40,7 +40,7 @@ header.masthead {
 }
 .masthead-full-name {
   font-family: "Briem Hand", cursive;
-  font-optical-sizing: auto;
+  font-optical-sizing: 20px;
   font-weight: <weight>;
   font-style: normal;
   }
