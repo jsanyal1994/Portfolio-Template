@@ -69,8 +69,8 @@ header.masthead {
 
 @media (max-width: 576px) {
   .img-profile {
-    max-width: 12rem;
-    max-height: 12rem;
+    max-width: 6rem; <! 12 rem previously !>
+    max-height: 6rem;
     border: 0.5rem solid rgba(255, 249, 251, 0.5);
   }
 }
